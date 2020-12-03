@@ -1,8 +1,8 @@
-#[macro_use]
-extern crate nickel;
+// #[macro_use]
+// extern crate nickel;
 
 use chrono::*;
-use nickel::Nickel;
+use nickel::*;
 use std::fs::OpenOptions;
 use std::io::prelude::*;
 
